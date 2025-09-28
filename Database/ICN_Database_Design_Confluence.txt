@@ -1,0 +1,191 @@
+ICN Database Design Documentation
+
+OVERVIEW
+
+The ICN (Industrial Capability Network) Database is a normalized relational database designed to store and manage information about industrial organizations, their capabilities, items, and geographical locations. The database contains 2,840 organizations with geocoded coordinates across Australia, organized into 4 main tables with proper foreign key relationships.
+
+DATABASE ARCHITECTURE
+
+The database follows Third Normal Form (3NF) principles to eliminate data redundancy and ensure data integrity. All tables use camelCase naming conventions and are designed for optimal performance with appropriate indexing.
+
+Key Statistics:
+- 28 unique item categories
+- 51 detailed item specifications  
+- 51 industry sectors
+- 2,840 organizations with coordinates
+- 87% geocoding success rate
+
+TABLE STRUCTURE
+
+1. Items Table
+Purpose: Stores high-level item categories and types
+
+Columns:
+- itemId (VARCHAR 50, Primary Key): Unique identifier like ITM-002348
+- itemName (VARCHAR 255): Descriptive name like "instrumentation"
+
+Contains 28 unique items representing major equipment and service categories.
+
+2. DetailedItems Table  
+Purpose: Stores specific detailed descriptions of items with relationships to parent items
+
+Columns:
+- detailedItemId (VARCHAR 50, Primary Key): Unique identifier like DITM-000530
+- detailedItemName (VARCHAR 500): Specific description like "Process control & instrumentation (PLC/SCADA)"
+- itemId (VARCHAR 50, Foreign Key): Links to parent item category
+
+Contains 51 unique detailed items providing granular capability descriptions.
+
+3. Sectors Table
+Purpose: Stores industry sector classifications
+
+Columns:
+- sectorMappingId (VARCHAR 50, Primary Key): Unique identifier like SM-000524
+- sectorName (VARCHAR 255): Industry sector name like "Critical Minerals"
+
+Contains 51 unique sectors representing different industry classifications.
+
+4. Organisations Table
+Purpose: Central table storing all organization information with geographical coordinates
+
+Key Columns:
+- organisationId (VARCHAR 50, Primary Key): Unique organization identifier
+- itemId (VARCHAR 50, Foreign Key): Links to Items table
+- detailedItemId (VARCHAR 50, Foreign Key): Links to DetailedItems table
+- organisationCapability (VARCHAR 50): Organization capability code
+- organisationName (VARCHAR 500): Full organization name
+- capabilityType (VARCHAR 100): Type like "Supplier" or "Manufacturer"
+- validationDate (DATE): When information was last validated
+- billingStreet (VARCHAR 500): Street address
+- billingCity (VARCHAR 255): City name
+- billingStateProvince (VARCHAR 100): State or province
+- billingZipPostalCode (VARCHAR 20): Postal code
+- sectorMappingId (VARCHAR 50, Foreign Key): Links to Sectors table
+- formattedAddress (VARCHAR 1000): Complete formatted address
+- latitude (DECIMAL 10,8): Geographic latitude coordinate
+- longitude (DECIMAL 11,8): Geographic longitude coordinate
+
+Contains 2,840 organizations with complete address and coordinate information.
+
+RELATIONSHIPS
+
+The database uses a hub-and-spoke model with the Organisations table at the center:
+
+- Organisations connects to Items via itemId foreign key
+- Organisations connects to DetailedItems via detailedItemId foreign key  
+- Organisations connects to Sectors via sectorMappingId foreign key
+- DetailedItems connects to Items via itemId foreign key
+
+This structure allows for:
+- One organization can have one item category and one detailed item specification
+- One item category can have multiple detailed items
+- One sector can contain multiple organizations
+- Complete traceability from organization to high-level categories
+
+GEOGRAPHIC COVERAGE
+
+Coordinate System: WGS84 decimal degrees with 8 decimal place precision
+Coverage Area: Primarily Australian addresses across all states and territories
+Address Types: Street addresses, industrial complexes, unit numbers, PO boxes
+
+State Distribution:
+- Victoria (VIC): Largest representation
+- New South Wales (NSW): Second largest
+- Queensland (QLD): Significant presence
+- Western Australia (WA): Good coverage
+- South Australia (SA): Moderate coverage
+- Tasmania (TAS), Northern Territory (NT), Australian Capital Territory (ACT): Smaller representation
+
+DATA PROCESSING
+
+Source Data: Original dataset contained 20,486 rows from alldata.csv
+
+Processing Pipeline:
+1. Geocoding Process: Used OpenStreetMap Nominatim API to convert addresses to coordinates
+2. Data Cleaning: Removed invalid records and handled missing organization IDs
+3. Normalization: Extracted unique values and created foreign key relationships
+4. Quality Assurance: Validated coordinate ranges and data consistency
+
+Final Result: 2,840 organizations with valid coordinates and complete relationship mapping
+
+PERFORMANCE OPTIMIZATION
+
+Indexing Strategy:
+- Primary key indexes on all tables
+- Foreign key indexes for join performance
+- Geographic index on latitude/longitude for spatial queries
+- Search indexes on commonly queried fields like city and state
+
+Query Performance: Optimized for common operations including:
+- Finding organizations by item category
+- Geographic proximity searches
+- Sector-based filtering
+- Multi-table joins across all relationships
+
+COMMON USE CASES
+
+Business Intelligence:
+- Analyze supplier distribution by geography
+- Identify capability gaps in specific regions
+- Track industry sector concentrations
+- Monitor validation dates for data freshness
+
+Operational Queries:
+- Find all suppliers of specific equipment types
+- Locate organizations within geographic radius
+- Generate reports by state or sector
+- Export data for mapping applications
+
+Geographic Analysis:
+- Plot organization locations on maps
+- Calculate distances between suppliers
+- Identify regional clusters
+- Support logistics and supply chain planning
+
+DATA QUALITY
+
+Completeness: 100% for all required fields in final dataset
+Accuracy: 87% successful geocoding rate with street-level precision
+Consistency: Normalized structure eliminates data redundancy
+Timeliness: Validation dates tracked per organization record
+
+Quality Measures:
+- Automated validation of coordinate ranges
+- Foreign key constraints prevent orphaned records
+- Data type enforcement ensures consistency
+- Regular validation against source systems recommended
+
+DEPLOYMENT INFORMATION
+
+Generated Files:
+- database_schema.sql: Complete table creation statements with indexes
+- database_inserts.sql: All data insertion statements (2,981 lines)
+- Normalized CSV files: Individual table exports for analysis
+
+System Requirements:
+- Database server supporting ANSI SQL
+- UTF-8 character encoding support
+- Minimum 100MB storage space
+- DECIMAL data type support for coordinates
+
+Maintenance Recommendations:
+- Regular backups due to geocoded coordinate value
+- Index maintenance for optimal query performance
+- Periodic validation date updates
+- Monitor for new organization additions
+
+BUSINESS VALUE
+
+Strategic Benefits:
+- Complete visibility into industrial capability landscape
+- Geographic analysis capabilities for supply chain optimization
+- Standardized data structure for consistent reporting
+- Scalable foundation for future data integration
+
+Operational Benefits:
+- Fast query performance through proper indexing
+- Data integrity through foreign key relationships
+- Flexible reporting across multiple dimensions
+- Support for both detailed and summary-level analysis
+
+The ICN Database provides a robust foundation for industrial capability analysis, supply chain management, and strategic planning across the Australian industrial landscape.

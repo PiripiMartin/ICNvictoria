@@ -1,0 +1,406 @@
+detailedItemId,detailedItemName,itemId
+DITM-000530,Process control & instrumentation (PLC/SCADA),ITM-002348
+DITM-000529,"Dust collectors, scrubbers, and gas handling",ITM-002726
+DITM-000528,Precipitation Tanks,ITM-002397
+DITM-000527,Leach Reactors/Tanks,ITM-002397
+DITM-000526,Filter Presses (for hydromet residues),ITM-009395
+DITM-000525,Thickeners and Clarifiers,ITM-004221
+DITM-000524,Slurry Pumps (e.g. Warman-type),ITM-001591
+DITM-000523,Disc or Pressure Filters,ITM-009395
+DITM-000522,Ceramic Filters,ITM-003566
+DITM-000521,SAG/Ball Mills,ITM-009354
+DITM-000520,IsaMill/Ultra-fine grinders,ITM-009354
+DITM-000519,High-Pressure Grinding Rolls (HPGR),ITM-009354
+DITM-000518,"Loaders (LHDs, underground boggers)",ITM-004892
+DITM-000517,Haul Trucks (surface and underground),ITM-002280
+DITM-000516,"Drill Rigs (production, exploration, jumbos)",ITM-008243
+DITM-000515,Conveyors,ITM-009184
+DITM-000514,Synthetic Carpet,ITM-001721
+DITM-000513,Wool Carpet,ITM-001717
+DITM-000512,Clothing - Leisure,ITM-009904
+DITM-000511,Clothing - Corporate/Formal,ITM-009904
+DITM-000510,Clothing - Industrial,ITM-005164
+DITM-000509,Clothing - Fire Services,ITM-005164
+DITM-000508,Clothing - Ambulance/Paramedic,ITM-005164
+DITM-000507,Clothing - Armed Forces,ITM-005164
+DITM-000506,Clothing - Medical,ITM-005164
+DITM-000505,Functional Textiles,ITM-009924
+DITM-000504,Accessories,ITM-009498
+DITM-000503,Footwear,ITM-002812
+DITM-000502,Clothing,ITM-009904
+DITM-000501,Face Shields,ITM-008412
+DITM-000500,Reusable Fabric Masks,ITM-005153
+DITM-000499,Reusable Gowns,ITM-004300
+DITM-000498,Reusable textiles (curtains & more),ITM-009905
+DITM-000497,Disposable Face Shields,ITM-008412
+DITM-000496,Sterilisation Wraps,ITM-009196
+DITM-000495,Surgical Warming Blankets,ITM-009205
+DITM-000494,Isolation gowns,ITM-004300
+DITM-000493,Respirator Masks,ITM-005153
+DITM-000492,Surgical Masks,ITM-005153
+DITM-000491,BIM - Associated Services,ITM-001419
+DITM-000490,BIM - Emerging Technologies,ITM-001419
+DITM-000489,BIM - Social and Economic (9D),ITM-001419
+DITM-000488,BIM - Safety and Risk Analysis (8D),ITM-001419
+DITM-000487,BIM - Facility Management (7D),ITM-001419
+DITM-000486,BIM - Sustainability Analysis (6D),ITM-001419
+DITM-000485,BIM - Cost (5D),ITM-001419
+DITM-000484,BIM - Time (4D),ITM-001419
+DITM-000483,BIM - Collaborative,ITM-001419
+DITM-000482,BIM - 3D Modelling,ITM-001419
+DITM-000481,Vent,ITM-009926
+DITM-000480,Sensor,ITM-006327
+DITM-000479,Refrigeration,ITM-009929
+DITM-000478,Pipework,ITM-001562
+DITM-000477,Motor,ITM-004293
+DITM-000476,Heater,ITM-009927
+DITM-000475,Furnace,ITM-009928
+DITM-000474,Fan,ITM-001773
+DITM-000473,Electrics,ITM-009931
+DITM-000472,Ductwork,ITM-002108
+DITM-000471,Control System,ITM-002350
+DITM-000470,Condenser,ITM-009932
+DITM-000469,Compressor,ITM-002679
+DITM-000468,Chiller,ITM-002719
+DITM-000467,Filter - Other,ITM-009925
+DITM-000466,Filter - UV-C,ITM-009935
+DITM-000465,Filter - Ionz,ITM-009936
+DITM-000464,Filter - HEPA,ITM-009934
+DITM-000463,Filter,ITM-009925
+DITM-000462,Air Conditioning - Variable Refrigerant Unit,ITM-007368
+DITM-000461,Air Conditioning - Split System Unit,ITM-007367
+DITM-000460,Air Conditioning - Packaged Unit,ITM-002775
+DITM-000459,Alarms,ITM-008625
+DITM-000458,Batteries,ITM-001657
+DITM-000457,Brakes,ITM-008433
+DITM-000456,Horns/Bells,ITM-006218
+DITM-000455,HVAC,ITM-002111
+DITM-000454,Lighting (Exterior),ITM-009620
+DITM-000453,Lighting (Interior),ITM-002283
+DITM-000452,PA Systems,ITM-001774
+DITM-000451,Wiring,ITM-002001
+DITM-000450,Control and Monitoring Systems,ITM-006271
+DITM-000449,Displays (External),ITM-008453
+DITM-000448,Displays (Internal),ITM-002095
+DITM-000447,Bodies,ITM-004380
+DITM-000446,Bogies,ITM-006185
+DITM-000445,Couplers and Buffers,ITM-009331
+DITM-000444,Doors,ITM-008450
+DITM-000443,External Decoration,ITM-004512
+DITM-000442,Floor Coverings,ITM-008455
+DITM-000441,Handrails,ITM-002523
+DITM-000440,Internal Lining,ITM-008447
+DITM-000439,Pantographs,ITM-006232
+DITM-000438,Seats (Pass. and Driver),ITM-008505
+DITM-000437,Suspension,ITM-008441
+DITM-000436,Traction Motors and Gearbox,ITM-009611
+DITM-000435,Wheelchair Access,ITM-007899
+DITM-000434,Wheelsets and Axles,ITM-006188
+DITM-000433,Windows,ITM-009578
+DITM-000432,Track Adhesion Materials,ITM-009993
+DITM-000431,Dehumidifier,ITM-009992
+DITM-000430,Hospital Scrubs,ITM-009991
+DITM-000429,"Disposable textiles (sheets, pillowcases & more)",ITM-009990
+DITM-000428,"Reagent handling systems (acid tanks, pumps)",ITM-009989
+DITM-000427,Modular skid fabrication and plant integration,ITM-009988
+DITM-000426,Material Packaging,ITM-009987
+DITM-000425,Spray Roasters,ITM-009986
+DITM-000424,"Smelting Furnaces (ISASMELT, Ausmelt)",ITM-009985
+DITM-000423,Rotary Kilns,ITM-009984
+DITM-000421,Fluidised Bed Calciners,ITM-009982
+DITM-000420,"Solvent Extraction Units (mixer-settlers, SX)",ITM-009981
+DITM-000419,Ion Exchange Columns (CIX/CSX),ITM-009980
+DITM-000418,Crystallisers,ITM-009979
+DITM-000417,"Pipework, valves, and slurry hoses",ITM-009978
+DITM-000416,"Magnetic Separators (WHGMS, LIMS, etc.)",ITM-009977
+DITM-000415,"Gravity Separators (spirals, shaking tables)",ITM-009976
+DITM-000414,"Flotation Cells (mechanical, column)",ITM-009975
+DITM-000413,Cyclones and Classifiers,ITM-009974
+DITM-000412,Mill Relining System,ITM-009973
+DITM-000411,Jaw/Cone Crushers,ITM-009972
+DITM-000410,Scrapers and water carts,ITM-009971
+DITM-000409,Excavators (surface mining),ITM-009970
+DITM-000408,Dredging Equipment (sand mining),ITM-009969
+DITM-000407,Dozer Traps/Feeder Units,ITM-009968
+DITM-000406,Bulldozers/Graders,ITM-009967
+DITM-000404,Sports Court Flooring - Timber,ITM-001720
+DITM-000401,Wind Turbine Control and Monitoring Solutions,ITM-008304
+DITM-000400,Wind Tower Yaw System,ITM-009863
+DITM-000399,Wind Tower Sections,ITM-009859
+DITM-000397,Wind Tower Pitch Control System,ITM-009866
+DITM-000396,Wind Tower Foundation Footings,ITM-009858
+DITM-000395,Wind Tower Flanges,ITM-002136
+DITM-000394,Wind Tower Bolts,ITM-002734
+DITM-000393,Wind Tower Blade,ITM-009864
+DITM-000392,Uninterruptible Power Supply,ITM-001665
+DITM-000391,Tie-down Bolts,ITM-002046
+DITM-000390,Synchronous Condensers,ITM-008690
+DITM-000387,Steel Reinforcement/ Anchor Cage,ITM-002041
+DITM-000385,Ring Main Unit,ITM-001627
+DITM-000381,Nacelle Housing (including Spinner),ITM-009861
+DITM-000380,Nacelle (Complete Solution),ITM-009028
+DITM-000374,Generator - Nacelle,ITM-002629
+DITM-000373,General Hydraulics and Oils,ITM-005142
+DITM-000372,Gear Box - Nacelle,ITM-009960
+DITM-000365,Drive Train - Nacelle,ITM-009862
+DITM-000359,Associated Services - Logistics,ITM-003193
+DITM-000353,Solar Tracking System,ITM-009856
+DITM-000352,Solar Mounting Structures,ITM-002386
+DITM-000351,Solar Inverters,ITM-002696
+DITM-000350,Solar Cables and Connectors,ITM-008356
+DITM-000348,PV Panel,ITM-002344
+DITM-000340,Junction Box,ITM-007183
+DITM-000335,Encapsulation Material - PV Panel,ITM-002344
+DITM-000327,Clamps and Clips,ITM-009855
+DITM-000324,Backsheet - Solar Panel,ITM-002344
+DITM-000323,Wire Harness Assemblies,ITM-002287
+DITM-000322,Switchboards,ITM-002727
+DITM-000321,Surge Protection Devices (SPDs),ITM-002562
+DITM-000319,Programmable Logic Controllers (PLC),ITM-003536
+DITM-000318,Power Distribution Units/Boards,ITM-002370
+DITM-000317,Power Conversion/Distribution Skids,ITM-002370
+DITM-000316,MV Distribution Transformers,ITM-001644
+DITM-000315,MV Cables,ITM-002994
+DITM-000314,Mounting Hardware and System Assembly,ITM-002386
+DITM-000312,Medium Voltage Switchgear,ITM-001627
+DITM-000311,Isolation Units,ITM-007626
+DITM-000310,Inverters,ITM-002696
+DITM-000308,Energy Management System,ITM-009868
+DITM-000307,Enclosure - Metal/Plastic,ITM-002372
+DITM-000305,Electrical Control Cabinet/Panel,ITM-002350
+DITM-000304,Electrical Contractor,ITM-001805
+DITM-000302,Earthing System and Components,ITM-004210
+DITM-000301,Copper Busbar and Chassis,ITM-002567
+DITM-000300,Cooling System,ITM-008432
+DITM-000299,Condition and Performance Monitoring Equipment,ITM-002271
+DITM-000298,Circuit Breakers,ITM-002995
+DITM-000297,Cable Clamps and Cleats,ITM-009855
+DITM-000296,Battery Storage,ITM-001657
+DITM-000295,Battery Modules,ITM-004280
+DITM-000294,Battery Management System (BMS),ITM-001657
+DITM-000293,Associated Services,ITM-009961
+DITM-000292,Transportation,ITM-003193
+DITM-000291,Prefabricated - Wall,ITM-001775
+DITM-000290,Prefabricated - Steel Frame,ITM-002030
+DITM-000289,Prefabricated - Roofing,ITM-009897
+DITM-000288,Prefabricated - Pods,ITM-009784
+DITM-000285,Prefabricated - Houses,ITM-009784
+DITM-000284,Prefabricated - Health,ITM-009784
+DITM-000283,Prefabricated - Granny Flats,ITM-009784
+DITM-000282,Prefabricated - Floor,ITM-009896
+DITM-000280,Prefabricated - Facades,ITM-001707
+DITM-000279,Prefabricated - Educational,ITM-009784
+DITM-000278,Prefabricated - Commercial,ITM-009784
+DITM-000277,Prefabricated - Apartments,ITM-009784
+DITM-000276,Design/ Architect,ITM-001529
+DITM-000275,Wave Trap,ITM-009959
+DITM-000274,Vibration Dampers,ITM-001890
+DITM-000273,UPS System,ITM-001665
+DITM-000272,Underground Cables,ITM-002992
+DITM-000271,Trenching - Hydro Excavation,ITM-001543
+DITM-000270,Trenching,ITM-001543
+DITM-000268,Terminations,ITM-009825
+DITM-000267,Synchronous Condenser,ITM-008690
+DITM-000266,Switchboard 330kv,ITM-002727
+DITM-000265,Surveying,ITM-002181
+DITM-000263,Substation Design,ITM-002636
+DITM-000262,Subsea Trenching,ITM-001543
+DITM-000261,Subsea Cables,ITM-001613
+DITM-000260,Strain Clamps,ITM-009855
+DITM-000259,Steel Reinforcing,ITM-002041
+DITM-000258,Spinning Reserve - Flywheel Energy Storage,ITM-009835
+DITM-000257,Spinning Reserve - Battery System,ITM-001657
+DITM-000256,Spacers and Spaces Dampers,ITM-009826
+DITM-000254,Signs - Traffic/Road,ITM-001986
+DITM-000247,SCADA System,ITM-002838
+DITM-000246,Relay and Metering Panel,ITM-002999
+DITM-000245,Project Planning & Management - Power Transmission,ITM-002179
+DITM-000243,Power Transmission Tower Fabrication,ITM-002523
+DITM-000242,Power Transmission Tower Design,ITM-002636
+DITM-000241,Power Transmission Insulators,ITM-004488
+DITM-000240,Overhead Power Line Covers,ITM-009832
+DITM-000239,Overhead Conductors,ITM-001616
+DITM-000238,Other Battery Types,ITM-004280
+DITM-000237,Optical Ground Wire/Optical Earth Wire,ITM-001633
+DITM-000236,Oil-filled Transformer 66kv,ITM-001644
+DITM-000235,Oil-filled Transformer 550kv,ITM-001644
+DITM-000234,Oil-filled Transformer 330kv,ITM-001644
+DITM-000233,Oil-filled Transformer 232kv,ITM-001644
+DITM-000232,Oil-filled Transformer 132kv,ITM-001644
+DITM-000230,Metering and Indication Meters,ITM-002981
+DITM-000228,Line Surge Arrester,ITM-002562
+DITM-000227,Lightning Arrester,ITM-009318
+DITM-000226,Isolators,ITM-007626
+DITM-000225,Insulation Covers,ITM-009833
+DITM-000224,Insulated Switches and Disconnectors,ITM-001627
+DITM-000223,Instrument Transformer,ITM-001644
+DITM-000221,HV Earthing System,ITM-004210
+DITM-000220,HV Circuit Breaker,ITM-002995
+DITM-000219,Ground Wire/Earth Wire,ITM-001613
+DITM-000218,Fire Suppression Systems,ITM-001899
+DITM-000217,Fibre Optic Cable,ITM-001646
+DITM-000216,Electrical Pits,ITM-002373
+DITM-000215,Electrical Conduit,ITM-001634
+DITM-000213,Earthing Fittings,ITM-004210
+DITM-000212,Earthing Cable/Earth Stap,ITM-001613
+DITM-000211,Earth Rods/ Electrodes and Accessories,ITM-009837
+DITM-000210,Dry Transformer 66kv,ITM-001644
+DITM-000209,Dry Transformer 550kv,ITM-001644
+DITM-000208,Dry Transformer 330kv,ITM-001644
+DITM-000207,Dry Transformer 232kv,ITM-001644
+DITM-000206,Dry Transformer 132kv,ITM-001644
+DITM-000205,Dry Transformer 110kv,ITM-001644
+DITM-000204,Disconnecting Circuit Breaker,ITM-002995
+DITM-000202,Dead-End Hardware,ITM-008304
+DITM-000201,Corona Ring,ITM-009830
+DITM-000200,Control Cabinet,ITM-002350
+DITM-000199,Connectors and Splices,ITM-009828
+DITM-000198,Concrete Surface Treatment and Coatings,ITM-004180
+DITM-000197,Concrete Repair Products and Services,ITM-003523
+DITM-000196,Concrete Additives/Admixtures,ITM-009824
+DITM-000195,Concrete,ITM-002048
+DITM-000194,Capacitor Banks,ITM-009836
+DITM-000193,Cable Terminations and Joints,ITM-009834
+DITM-000192,Busbar,ITM-002567
+DITM-000191,Armour Rods,ITM-009829
+DITM-000190,Anti-Climbing Fence,ITM-001971
+DITM-000189,Aerial Marker Balls,ITM-009831
+DITM-000167,Hydrogen Production Cooling System,ITM-009844
+DITM-000166,Hydrogen Generation,ITM-009842
+DITM-000165,Hydrogen Gas Storage - Tanks,ITM-002397
+DITM-000164,Hydrogen Gas Compressor,ITM-002679
+DITM-000163,Hydrogen Electrolyser,ITM-009311
+DITM-000162,Whiteboards,ITM-002382
+DITM-000155,Wall Lighting,ITM-001647
+DITM-000154,Vinyl Flooring,ITM-001786
+DITM-000153,Track Lighting,ITM-001647
+DITM-000152,Toilets,ITM-009759
+DITM-000150,Tiles - Concrete,ITM-001900
+DITM-000149,Tiles - Ceramic/Porcelain,ITM-002718
+DITM-000148,Tapware,ITM-002379
+DITM-000142,Shower Screen,ITM-003594
+DITM-000141,Shower Base/Tray,ITM-008008
+DITM-000140,Sconces,ITM-001647
+DITM-000139,Rubber Flooring,ITM-002748
+DITM-000138,Refrigerators (Domestic),ITM-001488
+DITM-000137,Refrigerators (Commercial),ITM-001488
+DITM-000136,Refrigerated Air Conditioning,ITM-002775
+DITM-000135,Recessed Lighting,ITM-001647
+DITM-000134,Portable Air Conditioners,ITM-002775
+DITM-000133,Plugs and Sockets,ITM-004119
+DITM-000132,Pendant Light,ITM-001647
+DITM-000131,Partitions (Showers/Toilets),ITM-002627
+DITM-000130,Panic/Duress Alarm,ITM-003587
+DITM-000129,Office Furniture - Desks/Workstations,ITM-001776
+DITM-000128,Office Furniture - Cubicles/Partitions,ITM-001776
+DITM-000127,Office Furniture - Chairs,ITM-001776
+DITM-000126,Office Furniture - Cabinets/Shelving,ITM-001776
+DITM-000125,Mirrors,ITM-002146
+DITM-000124,Medical Furniture - Mattresses,ITM-004893
+DITM-000123,Medical Furniture - Chairs,ITM-002797
+DITM-000122,Medical Furniture - Beds,ITM-002561
+DITM-000121,Medical Alert Systems,ITM-001881
+DITM-000120,Light Switches,ITM-006839
+DITM-000119,Laminate Flooring,ITM-009840
+DITM-000118,Induction Cooktop,ITM-002411
+DITM-000117,Hot Plates,ITM-002290
+DITM-000116,Heaters (Fireplaces/Wood Heaters/Electric Heaters),ITM-009839
+DITM-000115,Fryers,ITM-002290
+DITM-000114,Floorboards - Timber,ITM-005555
+DITM-000113,Floorboards - Bamboo,ITM-009838
+DITM-000112,Flood Sensors,ITM-001603
+DITM-000111,Fire Alarm/Smoke Detectors,ITM-005558
+DITM-000109,Evaporative Air Conditioners,ITM-002775
+DITM-000108,Educational Furniture - Tables,ITM-002796
+DITM-000107,Educational Furniture - Playground Furniture,ITM-001975
+DITM-000106,Educational Furniture - Desks/Workstations,ITM-001776
+DITM-000105,Educational Furniture - Chairs,ITM-002797
+DITM-000104,Educational Furniture - Cabinets/Shelving,ITM-002381
+DITM-000103,Ducted Indoor Units,ITM-002108
+DITM-000102,Ducted Gas Heating,ITM-002108
+DITM-000101,Dishwasher (Commercial),ITM-001412
+DITM-000100,Cove Lighting,ITM-001647
+DITM-000099,Correctional Furniture - Tables,ITM-002796
+DITM-000098,Correctional Furniture - Mattresses,ITM-004893
+DITM-000097,Correctional Furniture - Courtyard Furniture,ITM-002831
+DITM-000096,Correctional Furniture - Chairs,ITM-002797
+DITM-000095,Correctional Furniture - Beds,ITM-002978
+DITM-000094,Coffee Machine,ITM-002290
+DITM-000093,Chandeliers,ITM-001647
+DITM-000092,Carpet Tiles,ITM-001722
+DITM-000091,Carpet - Wool,ITM-001717
+DITM-000090,Carpet - Synthetic,ITM-001721
+DITM-000089,Carbon Monoxide Detectors,ITM-002329
+DITM-000088,Bidets,ITM-009759
+DITM-000087,Baths,ITM-008007
+DITM-000086,Basins/Sinks,ITM-001527
+DITM-000085,Barbecue and Grills,ITM-002620
+DITM-000084,Acoustic Panels/Tiles,ITM-003172
+DITM-000083,Access Control,ITM-002431
+DITM-000082,Ultra-fast charge (350kW),ITM-008430
+DITM-000081,Software,ITM-002304
+DITM-000075,Wave Energy Generation Solutions,ITM-009850
+DITM-000074,Vanadium Redox Flow Battery (VRFB),ITM-004280
+DITM-000073,Valves and Controls - Transesterification,ITM-001601
+DITM-000072,Tubrine Gate Valve,ITM-003573
+DITM-000071,Transesterification Reactor (Pressure Vessel),ITM-009846
+DITM-000070,Thermal Energy Storage System,ITM-009849
+DITM-000068,Steel Pipes - Anaerobic Digestion,ITM-001553
+DITM-000067,Steam Boiler - Pyrolysis Heating System,ITM-002713
+DITM-000066,Rotary Lobe Pumps - Anaerobic Digestion,ITM-001591
+DITM-000065,Reversible pump turbine/francis turbine,ITM-009854
+DITM-000064,Redox Flow Battery (RFB),ITM-004280
+DITM-000063,Pyrolysis Plant,ITM-009847
+DITM-000062,Project Management/ Consultancy,ITM-002179
+DITM-000059,Metalwork,ITM-002523
+DITM-000058,Metal Fabrication,ITM-002523
+DITM-000057,Maintenance,ITM-002176
+DITM-000054,Hot Oil Heaters - Pyrolysis Heating System,ITM-009847
+DITM-000053,Heating System - Pyrolysis,ITM-009847
+DITM-000052,Heat Exchangers,ITM-009851
+DITM-000051,Flywheel Energy Storage System,ITM-009835
+DITM-000050,Engineering,ITM-001671
+DITM-000049,Earthworks,ITM-001543
+DITM-000048,Draft Tube Gate,ITM-009853
+DITM-000047,Construction/ Concrete Works,ITM-003539
+DITM-000046,Concentrated Solar Power/Thermal System,ITM-009849
+DITM-000045,Compressed Air Systems,ITM-002679
+DITM-000044,Compressed Air Energy Storage,ITM-009852
+DITM-000043,Burners - Pyrolysis Heating System,ITM-009847
+DITM-000042,Boilers - Pyrolysis Heating System,ITM-009848
+DITM-000041,Biodiesel Production - Transesterification,ITM-009845
+DITM-000040,Anaerobic Digester - Anaerobic Digestion,ITM-009405
+DITM-000039,Agitators & Stirrers/Mixers - Anaerobic Digestion,ITM-003537
+DITM-000038,Vibratory Finishing/ Tumbling Equipment,ITM-009888
+DITM-000037,Vat Photopolymerisation,ITM-009869
+DITM-000036,Thermoplastic polymer powders,ITM-009880
+DITM-000035,Thermoplastic Pellets,ITM-009878
+DITM-000034,Thermoplastic Filament,ITM-009877
+DITM-000033,Temperature-Controlled Furnace,ITM-009891
+DITM-000032,System Integrators,ITM-006123
+DITM-000031,Slicing Software,ITM-002304
+DITM-000030,Sheet Lamination,ITM-009875
+DITM-000028,Quality Assurance System and Hardware,ITM-002355
+DITM-000027,Production Centre,ITM-009893
+DITM-000026,Powder Bed Fusion,ITM-009872
+DITM-000025,Polymer/Solvent Binders,ITM-009882
+DITM-000023,Photopolymer Resins,ITM-009876
+DITM-000022,"Paints, Varnishes, and Dyes",ITM-001745
+DITM-000021,Metal Wire,ITM-002042
+DITM-000020,Metal powders,ITM-009879
+DITM-000019,Metal Foil/Sheets,ITM-009885
+DITM-000018,Media Polishing Equipment,ITM-009887
+DITM-000017,Media Blasting Equipment,ITM-009889
+DITM-000016,Material Jetting,ITM-009870
+DITM-000013,Hot Isostatic Pressing Machine,ITM-009890
+DITM-000012,Galvanising,ITM-002336
+DITM-000011,Electroless Plating,ITM-002336
+DITM-000010,Electrochemical Media Polishing Equipment,ITM-009886
+DITM-000009,Direct Energy Deposition,ITM-009874
+DITM-000008,Design Simulation and Analysis (CAE) Software,ITM-002304
+DITM-000007,Computer Aided Design (CAD) Software,ITM-002304
+DITM-000006,Composite Reinforced Thermoplastics/Resins,ITM-009884
+DITM-000005,Clean Room Manufacturing,ITM-009894
+DITM-000004,Ceramic powder,ITM-009881
+DITM-000003,Binder Jetting,ITM-009873
+DITM-000002,Adhesives,ITM-005476

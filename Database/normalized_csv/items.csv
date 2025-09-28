@@ -1,0 +1,286 @@
+itemId,itemName
+ITM-002348,instrumentation
+ITM-002726,dust and fume extraction system
+ITM-002397,tanks
+ITM-009395,filters
+ITM-004221,clarifier
+ITM-001591,hydraulics - pumps
+ITM-003566,filter - screen
+ITM-009354,milling equipment
+ITM-004892,loaders - equipment
+ITM-002280,vehicles - trucks
+ITM-008243,Rigging Equipment
+ITM-009184,conveyor system
+ITM-001721,carpet - nylon
+ITM-001717,carpet - wool
+ITM-009904,clothing
+ITM-005164,uniforms
+ITM-009924,textiles - technical
+ITM-009498,accessories
+ITM-002812,footwear
+ITM-008412,personal protective equipment (PPE) - face shields
+ITM-005153,PPE - masks
+ITM-004300,surgical gowns
+ITM-009905,textiles
+ITM-009196,medical consumables
+ITM-009205,blankets
+ITM-001419,modelling - building information
+ITM-009926,mechanical - vent
+ITM-006327,sensors
+ITM-009929,mechanical - refrigeration system
+ITM-001562,pipe - copper
+ITM-004293,electrical - motor
+ITM-009927,mechanical - heater
+ITM-009928,mechanical - furnace
+ITM-001773,fans
+ITM-009931,mechanical - electrical system
+ITM-002108,mechanical - ductwork
+ITM-002350,control panels
+ITM-009932,mechanical - condenser
+ITM-002679,air compressor
+ITM-002719,mechanical - chillers
+ITM-009925,mechanical - filter
+ITM-009935,UV system
+ITM-009936,Ionz system
+ITM-009934,HEPA system
+ITM-007368,mechanical - air conditioning unit - variable refrigerant flow/volume
+ITM-007367,mechanical - air conditioning unit - split system
+ITM-002775,mechanical - air conditioning unit
+ITM-008625,Communications - Passenger Emergency Alarm & Intercom
+ITM-001657,battery systems
+ITM-008433,braking system
+ITM-006218,Auxiliary Equipment - Horns
+ITM-002111,mechanical - HVAC
+ITM-009620,Lighting - Head lights
+ITM-002283,cabin/interior lighting
+ITM-001774,PA/speaker systems
+ITM-002001,signalling and control cables (copper)
+ITM-006271,"Indicators, Controls and Monitoring Systems - Tram Control Hardware & Software"
+ITM-008453,LED destination display
+ITM-002095,passenger information display
+ITM-004380,body panels
+ITM-006185,Bogies - Frame
+ITM-009331,Couplers
+ITM-008450,door pneumatic systems
+ITM-004512,paint and protective coatings
+ITM-008455,floor covering
+ITM-002523,"metalwork - stairs, handrails, ladders, platforms, etc."
+ITM-008447,ceiling panels/lining
+ITM-006232,Main Power supply - Pantograph
+ITM-008505,Carbody Body Equipment - Standard seats
+ITM-008441,suspension
+ITM-009611,Traction - Traction Motor (electric)
+ITM-007899,wheelchair ramps
+ITM-006188,Bogies - Wheelsets
+ITM-009578,Car Body Equipment - Side Windows
+ITM-009993,track adhesives
+ITM-009992,dehumidifier
+ITM-009991,clothing - scrubs
+ITM-009990,textiles - disposable
+ITM-009989,reagent handling system
+ITM-009988,skid fabrication
+ITM-009987,material packaging
+ITM-009986,spray roasters
+ITM-009985,furnace - smelting
+ITM-009984,kiln - rotary
+ITM-009982,calciner
+ITM-009981,solvent extraction unit
+ITM-009980,ion exchange column
+ITM-009979,crystalliser
+ITM-009978,"pipes, valves, slurry hoses"
+ITM-009977,separator - magnetic
+ITM-009976,separator - gravity
+ITM-009975,flotation cells
+ITM-009974,cyclones/classifiers
+ITM-009973,mill lining system
+ITM-009972,crusher - jaw/cone
+ITM-009971,scrapers/water carts
+ITM-009970,excavating equipment
+ITM-009969,dredging equipment
+ITM-009968,dozer trap/feeder unit
+ITM-009967,bulldozer/grader
+ITM-001720,sports court flooring - timber
+ITM-008304,control hardware
+ITM-009863,wind tower - yaw system
+ITM-009859,wind tower - sections
+ITM-009866,wind tower - pitch control system
+ITM-009858,wind tower - footings
+ITM-002136,flanges
+ITM-002734,"hardware (fasteners, bolts, nuts, screws, rivets)"
+ITM-009864,wind tower - blades
+ITM-001665,uninterrupted power supply (UPS)
+ITM-002046,tie down bolts
+ITM-008690,synchronous condenser
+ITM-002041,steel - reinforcing
+ITM-001627,electrical - switchgear
+ITM-009861,nacelle - housing unit
+ITM-009028,Nacelle - Electrical
+ITM-002629,electrical - generator
+ITM-005142,lubricants and oils
+ITM-009960,Nacelle - gearbox
+ITM-009862,nacelle - drivetrain
+ITM-003193,logistics - delivery
+ITM-009856,solar tracking system
+ITM-002386,mounting equipment
+ITM-002696,electrical - inverters
+ITM-008356,electrical - cable (DC)
+ITM-002344,solar panels
+ITM-007183,electrical - junction boxes
+ITM-009855,electrical - cable clamps/clips
+ITM-002287,electrical - cable harness
+ITM-002727,electrical - switchboards
+ITM-002562,electrical - surge arrestor
+ITM-003536,PLC equipment
+ITM-002370,electrical - distribution boards
+ITM-001644,electrical - transformer
+ITM-002994,electrical - cable (MV)
+ITM-007626,electrical - isolator
+ITM-009868,energy management system
+ITM-002372,electrical - cabinets/enclosures
+ITM-001805,labour - electrical
+ITM-004210,electrical - earth bar
+ITM-002567,electrical - busbar
+ITM-008432,battery cooling system
+ITM-002271,ICT hardware
+ITM-002995,electrical - circuit breakers
+ITM-004280,batteries
+ITM-009961,Battery - services
+ITM-001775,walls/partitions
+ITM-002030,steel - structural
+ITM-009897,prefabricated buildings - roofing
+ITM-009784,modular building - metal
+ITM-009896,prefabricated buildings - flooring
+ITM-001707,facade cladding
+ITM-001529,architectural services
+ITM-009959,Wave Trap
+ITM-001890,noise attenuation - steel
+ITM-002992,electrical - cable (HV)
+ITM-001543,earthworks / excavation
+ITM-009825,electrical - terminations
+ITM-002181,site inspections/surveying
+ITM-002636,design services
+ITM-001613,electrical - cable
+ITM-009835,flywheel energy system
+ITM-009826,electrical - spacers/dampers
+ITM-001986,signage
+ITM-002838,SCADA system
+ITM-002999,electrical - relays
+ITM-002179,project management
+ITM-004488,electrical - insulators
+ITM-009832,electrical - power line covers
+ITM-001616,cable - overhead contact wires
+ITM-001633,cable - fibre optic
+ITM-002981,electrical - meter
+ITM-009318,lightning protection
+ITM-009833,electrical - insulation covers
+ITM-001899,fire suppression system
+ITM-001646,cable - fibre optic unarmoured LT
+ITM-002373,electrical - pits
+ITM-001634,electrical - conduits
+ITM-009837,electrical - earth rods/electrodes
+ITM-009830,electrical - corona ring
+ITM-009828,electrical - connectors/splices
+ITM-004180,coloured surface treatment
+ITM-003523,grout
+ITM-009824,concrete - additives
+ITM-002048,concrete
+ITM-009836,electrical - capacitor banks
+ITM-009834,electrical - cable terminations/joints
+ITM-009829,electrical - armour rods
+ITM-001971,fencing and gates
+ITM-009831,electrical - marker balls
+ITM-009844,hydrogen cooling system
+ITM-009842,hydrogen generation system
+ITM-009311,electrolyser
+ITM-002382,whiteboards and pinboards
+ITM-001647,light fittings - internal
+ITM-001786,vinyl flooring and wall covering
+ITM-009759,hydraulic - sanitary fixtures
+ITM-001900,tiles
+ITM-002718,tiles - ceramic
+ITM-002379,tapware
+ITM-003594,shower screens
+ITM-008008,shower bases
+ITM-002748,flooring - rubber
+ITM-001488,whitegoods - refrigerator
+ITM-004119,electrical - general power outlets (GPO)
+ITM-002627,partitions - toilets
+ITM-003587,duress alarm system
+ITM-001776,workstations and office furniture
+ITM-002146,mirrors and splashbacks
+ITM-004893,mattresses
+ITM-002797,furniture - chairs/stools
+ITM-002561,bed - hospital
+ITM-001881,nurse call system
+ITM-006839,electrical - switches
+ITM-009840,flooring - laminate
+ITM-002411,whitegoods - cooktop
+ITM-002290,whitegoods
+ITM-009839,electrical - heaters
+ITM-005555,flooring - timber
+ITM-009838,flooring - bamaboo
+ITM-001603,level sensor
+ITM-005558,smoke detectors
+ITM-002796,furniture - tables/desks
+ITM-001975,playground equipment
+ITM-002381,cupboards and shelving
+ITM-001412,whitegoods - commercial dishwasher
+ITM-002831,outdoor furniture
+ITM-002978,furniture - beds
+ITM-001722,carpet tiles - nylon
+ITM-002329,leak detection system
+ITM-008007,bath tubs
+ITM-001527,wash basins
+ITM-002620,barbecue
+ITM-003172,acoustic panels
+ITM-002431,access control system
+ITM-008430,electrical charging station
+ITM-002304,ICT software licensing
+ITM-009850,wave energy system
+ITM-001601,valves - control
+ITM-003573,valves - gate
+ITM-009846,hydraulics - reactor
+ITM-009849,solar/thermal power system
+ITM-001553,pipe - steel
+ITM-002713,mechanical - boilers
+ITM-009854,turbines
+ITM-009847,pyrolysis system
+ITM-002176,maintenance services
+ITM-009851,hydraulics - heat exchangers
+ITM-001671,engineering services
+ITM-009853,hydraulics - draft tube gate
+ITM-003539,labour - civil
+ITM-009852,compressed air energy system
+ITM-009848,hydraulics - boilers
+ITM-009845,biodiesel production system
+ITM-009405,anaerobic digester
+ITM-003537,tank mixers
+ITM-009888,additive manufacturing - vibratory finishing equipment
+ITM-009869,additive manufacturing - photopolymerization
+ITM-009880,additive manufacturing - polymer powders
+ITM-009878,additive manufacturing - pellets
+ITM-009877,additive manufacturing - filament
+ITM-009891,additive manufacturing - furnaces
+ITM-006123,Systems integration services
+ITM-009875,additive manufacturing - sheet lamination
+ITM-002355,quality assessment services
+ITM-009893,additive manufacturing - production centres
+ITM-009872,additive manufacturing - powder bed fusion
+ITM-009882,additive manufacturing - binders
+ITM-009876,additive manufacturing - resins
+ITM-001745,paint
+ITM-002042,mesh
+ITM-009879,additive manufacturing - metal powers
+ITM-009885,additive manufacturing - metal sheets/foils
+ITM-009887,additive manufacturing - polishing equipment
+ITM-009889,additive manufacturing - blast finshing equipment
+ITM-009870,additive manufacturing - material jetting
+ITM-009890,additive manufacturing - HIP equipment
+ITM-002336,protective coatings
+ITM-009886,additive manufacturing - electrofinishing equipment
+ITM-009874,additive manufacturing - direct energy deposition
+ITM-009884,additive manufacturing - composite reinforced materials
+ITM-009894,additive manufacturing - clean rooms
+ITM-009881,additive manufacturing - ceramic powder
+ITM-009873,additive manufacturing - binder jetting
+ITM-005476,adhesives
